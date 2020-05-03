@@ -19,9 +19,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
-#############################################
-# git user name: kokato  password: Ckj30321
-#############################################
+"""
+git user name: kokato  password: Ckj30321
+"""
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '5-mv9$=a__ila0j-k#3(28+t2#^-v!1sr7a)3t5#8+$=#=nhp$'
